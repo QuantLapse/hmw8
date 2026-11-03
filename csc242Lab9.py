@@ -1,4 +1,4 @@
-
+#LAB 9 - THAI THACH - SOLO COLLAB
 import os
 def fileStartsWithCount(folder,chars):
     '''returns the number of files, in folder and all of its
